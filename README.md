@@ -4,7 +4,7 @@
 
 [bootstrap-social](https://github.com/lipis/bootstrap-social/) for Rails asset pipeline
 
-- bootstrap-social version: [4.8.0](https://github.com/lipis/bootstrap-social/releases/tag/4.8.0)
+- bootstrap-social version: [4.9.1](https://github.com/lipis/bootstrap-social/releases/tag/4.9.1)
 
 ## Installation
 
