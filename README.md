@@ -55,7 +55,7 @@
   Or in `app/assets/javascripts/application.css.scss` / `app/assets/javascripts/application.css.sass`:
 
   ```scss
-  @import font-awesome;
+  @import 'font-awesome';
   ```
 
   ```sass
