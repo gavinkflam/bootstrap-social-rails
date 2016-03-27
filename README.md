@@ -1,6 +1,7 @@
 # bootstrap-social-rails
 
-[![Gem Version](https://badge.fury.io/rb/bootstrap-social-rails.svg)](http://badge.fury.io/rb/bootstrap-social-rails)
+[![Gem Version](http://img.shields.io/gem/v/bootstrap-social-rails.svg)](https://rubygems.org/gems/bootstrap-social-rails)
+[![Gem Downloads](https://img.shields.io/gem/dt/bootstrap-social-rails.svg)](https://rubygems.org/gems/bootstrap-social-rails)
 
 [bootstrap-social](https://github.com/lipis/bootstrap-social/) for Rails asset pipeline
 
