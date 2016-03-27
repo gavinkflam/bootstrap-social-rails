@@ -4,7 +4,7 @@
 
 [bootstrap-social](https://github.com/lipis/bootstrap-social/) for Rails asset pipeline
 
-- bootstrap-social version: [4.9.1](https://github.com/lipis/bootstrap-social/releases/tag/4.9.1)
+- bootstrap-social version: [4.11.0](https://github.com/lipis/bootstrap-social/releases/tag/4.11.0)
 
 ## Installation
 
@@ -13,22 +13,22 @@
   ```ruby
   gem 'bootstrap-social-rails'
   ```
-  
+
   ```bash
   bundle install
   ```
 
 2. Require the bootstrap-social css file in `app/assets/stylesheets/application.css`:
-  
+
   ```css
   *= require bootstrap-social
   ```
   Or in `app/assets/javascripts/application.css.scss` / `app/assets/javascripts/application.css.sass`:
-  
+
   ```scss
   @import bootstrap-social;
   ```
-  
+
   ```sass
   @import bootstrap-social
   ```
