@@ -34,6 +34,34 @@
   @import bootstrap-social
   ```
 
+3. Add font-awesome-rails (Optional)
+
+  Bootstrap-social is often used with [Font Awesome](https://fortawesome.github.io/Font-Awesome/) icons.
+  [font-awesome-rails](https://github.com/bokmann/font-awesome-rails) gem provides the web fonts and stylesheets for the Rails asset pipeline.
+
+  ```ruby
+  gem 'font-awesome-rails'
+  ```
+
+  ```bash
+  bundle install
+  ```
+  
+  Require the font-awesome-rails css file in `app/assets/stylesheets/application.css`:
+  
+  ```css
+  *= require font-awesome
+  ```
+  Or in `app/assets/javascripts/application.css.scss` / `app/assets/javascripts/application.css.sass`:
+
+  ```scss
+  @import font-awesome;
+  ```
+
+  ```sass
+  @import font-awesome
+  ```
+
 ## Acknowledgements
 
 [bootstrap-social](https://github.com/lipis/bootstrap-social/) created by Panayiotis Lipiridis, licensed under the [MIT license](https://github.com/lipis/bootstrap-social/blob/gh-pages/LICENCE)
